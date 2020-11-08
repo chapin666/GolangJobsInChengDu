@@ -46,6 +46,7 @@
 | [网信天成](#wxtc)  |  移动互联网,电商 |  🌟🌟🌟  |
 | [趣乐多](#qld)  |  游戏 |  🌟🌟🌟  |
 | [伍柒必乐](#wqbl)  |  移动互联网,金融 |  🌟🌟🌟  |
+| [心田花开](#xthk)  |  教育 |  🌟🌟🌟  |
 
 ---
 
@@ -1645,7 +1646,6 @@ EasyStack 自成立以来已为国家电网、人民银行、邮储银行、建�
 We are a product innovation lab helping product companies turn ideas into reality.  
 
 We specialize in build products for early-stage startups as well as big-tech companies based in Silicon Valley. 
-
 ```
 
 - **融资情况**：未融资
@@ -1655,5 +1655,42 @@ We specialize in build products for early-stage startups as well as big-tech com
 - **地址**：成都高新区天府五街200号
 
 - **领域**：移动互联网,金融
+
+---
+
+### <span id="xthk">[心田花开](https://www.xthk.cn/)</span>
+
+### [任职要求】
+
+```
+1、较强的沟通能力和理解力。
+2、2年及以上Go实际项目经验或Unix/Linux平台下高性能服务器端架构设计与开发经验；
+3、能独立完成功能和参与系统设计；
+4、精通MySQL,redis或其他数据库；
+5、熟悉Nginx/tengine；
+6、扎实的编程基础，系统，网络及应用性能优化等方面问题的分析和解决能力；
+7、有直播互动系统研发设计经验优先。
+```
+
+### [公司信息]
+
+- **简介**：
+```
+国语文教培领域独领风骚，全国一二线城市几乎都有心田花开！
+
+全国只要提到语文培训哪家办得好，几乎都会想到心田花开！教语文不来心田花开，去哪里呢？
+
+集团大力发展数学英语，且成绩显著，堪称行业奇迹！
+
+心田花开在线教育后来居上，其核心业务指标均已远超其他同类优质在线平台，规模呈指数级增长。加入心田花开在线教育团队，你大有可为！
+```
+
+- **融资情况**：未融资
+
+- **规模**：500-2000人
+
+- **地址**：成都武侯区航空路3号附2号心田花开教育培训学校
+
+- **领域**：教育
 
 
