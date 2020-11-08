@@ -35,7 +35,7 @@
 | [Long Bridge](#longbridge)  | 数据服务,证券 |  🌟🌟🌟 |
 | [极米科技](#gimi)  | 电商,硬件 |  🌟🌟🌟🌟  |
 | [EasyStack](#easystack)  | 数据服务 |  🌟🌟🌟  |
-| [成都领沃云](#cdlwy)  | 其他 |  🌟🌟🌟  |
+| [成都领沃](#cdlw)  | 其他 |  🌟🌟🌟  |
 
 ---
 
@@ -1244,7 +1244,7 @@ EasyStack 自成立以来已为国家电网、人民银行、邮储银行、建�
 
 ---
 
-### <span id="cdlwy">[成都领沃](https://yungengxin.com/)</span>
+### <span id="cdlw">[成都领沃](https://yungengxin.com/)</span>
 
 ### [任职要求】
 
