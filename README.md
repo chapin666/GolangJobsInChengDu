@@ -45,6 +45,7 @@
 | [东莞美宜佳](#dgmyj)  |  其他 |  🌟🌟🌟  |
 | [网信天成](#wxtc)  |  移动互联网,电商 |  🌟🌟🌟  |
 | [趣乐多](#qld)  |  游戏 |  🌟🌟🌟  |
+| [伍柒必乐](#wqbl)  |  移动互联网,金融 |  🌟🌟🌟  |
 
 ---
 
@@ -1620,6 +1621,39 @@ EasyStack 自成立以来已为国家电网、人民银行、邮储银行、建�
 - **领域**：游戏
 
 
+---
 
+### <span id="wqbl">[伍柒必乐](https://www.lagou.com/gongsi/388719.html)</span>
+
+### [任职要求】
+
+```
+1.2年以上服务端开发经验，Go语言开发经验优先
+2.有单元测试，测试驱动开发经验
+3.理解面向对象开发的原则和最佳实践
+4.有GoogleCloudPlatform平台开发经验优先
+5.熟悉HTTP、RESTful、gRPC等Web应用开发中的常用协议/规范
+6.熟练Git，认同严苛的代码评审、持续质量改进
+7.积极主动，有责任感、团队精神、良好的沟通能力
+8.加分项-精通英语读写，口语能达到简单沟通
+```
+
+### [公司信息]
+
+- **简介**：
+```
+We are a product innovation lab helping product companies turn ideas into reality.  
+
+We specialize in build products for early-stage startups as well as big-tech companies based in Silicon Valley. 
+
+```
+
+- **融资情况**：未融资
+
+- **规模**：15-50人
+
+- **地址**：成都高新区天府五街200号
+
+- **领域**：移动互联网,金融
 
 
